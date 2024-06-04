@@ -16,7 +16,7 @@
         made from HTML.
     </p>
     <H2>Below is my favorite interest which is coding!</H2>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT824xdL-YFiRLDWyPesc0a9lhyVFXpRSB3_PP0k4e_oQ&s" width = " 400" Height = "200"/>"
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT824xdL-YFiRLDWyPesc0a9lhyVFXpRSB3_PP0k4e_oQ&s" width = " 400" Height = "200"/>
   <p>Now that you have read about me the place is DOMINICAN REPUBLIC!!!</p>
   <div class="text-container">
     <div class="content hideContent">
