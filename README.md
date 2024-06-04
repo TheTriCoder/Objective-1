@@ -7,7 +7,7 @@
 <body>
   <h1>Hello, my name is Tristan!</h1>
   <h2> Below is my favorite place. I will reveal it at the end.</h2>
-  <img src="https://a.cdn-hotels.com/gdcs/production5/d1970/670862fb-f5c0-4279-822e-3e370e5d1342.jpg
+  <img src="https://a.cdn-hotels.com/gdcs/production5/d1970/670862fb-f5c0-4279-822e-3e370e5d1342.jpg"
    alt = "This is my favorite place, I will reveal it later at the end" 
   width = "400" Height = "200"/>
   <p> I was born on June 30th 2013. I am 10 years old and I am the eldest of my brothers and sisters. 
