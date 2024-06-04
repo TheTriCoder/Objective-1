@@ -21,6 +21,7 @@
   <div class="text-container">
     <div class="content hideContent">
         早上好。
+      I'm chinese and this is chinese for good morning.
         <p>the end</p>
         </ul>
     </div>
