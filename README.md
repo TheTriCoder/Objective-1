@@ -10,7 +10,7 @@
   <img src="https://a.cdn-hotels.com/gdcs/production5/d1970/670862fb-f5c0-4279-822e-3e370e5d1342.jpg"
    alt = "This is my favorite place, I will reveal it later at the end" 
   width = "400" Height = "200"/>
-  <p> I was born on June 30th 2013. I am 10 years old and I am the eldest of my brothers and sisters. 
+  <p>I am the eldest of my brothers and sisters. 
     My favorite people are my Mom and my Dad. My favorite sport is soccer and basketball.</p>
     <p> I also have lots of interests like coding and math! Even this website is made of tiny scripts and scripts of code. Specifically this website is
         made from HTML.
