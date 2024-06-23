@@ -11,7 +11,7 @@
    alt = "This is my favorite place, I will reveal it later at the end" 
   width = "400" Height = "200"/>
   <p>I am the eldest of my brothers and sisters. 
-    My favorite people are my Mom and my Dad. My favorite sport is soccer and basketball.</p>
+    My favorite people are my Mom and my Dad. My favorite sport is soccer and basketball. hi</p>
     <p> I also have lots of interests like coding and math! Even this website is made of tiny scripts and scripts of code. Specifically this website is
         made from HTML.
     </p>
